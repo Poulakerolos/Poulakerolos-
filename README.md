@@ -2,6 +2,8 @@
 
 Current CV for Poula Kerolos, an EECE student at Cairo University specializing in analog and mixed-signal electronics, with complementary experience in digital design and embedded systems.
 
+[Download the current CV](Poula_Kerolos_CV.pdf)
+
 ## Portfolio highlights
 
 - **Digital design:** a single-cycle RV32I processor and verified Verilog modules, including FSMs, memory, clock division, and arithmetic logic.
